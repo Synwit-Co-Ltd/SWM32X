@@ -1,0 +1,15 @@
+.\objects\benchmark_bg.o: ..\lv_examples\lv_apps\benchmark\benchmark_bg.c
+.\objects\benchmark_bg.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\benchmark_bg.o: ..\..\8M8\lv_conf.h
+.\objects\benchmark_bg.o: ..\..\8M8\lv_ex_conf.h
+.\objects\benchmark_bg.o: ..\..\8M8\lvgl/lv_draw/lv_draw.h
+.\objects\benchmark_bg.o: ..\..\8M8\lvgl/lv_draw/../lv_core/lv_style.h
+.\objects\benchmark_bg.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+.\objects\benchmark_bg.o: ..\..\8M8\lvgl/lv_draw/../lv_core/../lv_misc/lv_color.h
+.\objects\benchmark_bg.o: ..\..\8M8\lvgl/lv_draw/../lv_core/../lv_misc/lv_area.h
+.\objects\benchmark_bg.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\objects\benchmark_bg.o: ..\..\8M8\lvgl/lv_draw/../lv_core/../lv_misc/lv_font.h
+.\objects\benchmark_bg.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+.\objects\benchmark_bg.o: ..\..\8M8\lvgl/lv_draw/../lv_core/../lv_misc/lv_fonts/lv_symbol_def.h
+.\objects\benchmark_bg.o: ..\..\8M8\lvgl/lv_draw/../lv_core/../lv_misc/lv_anim.h
+.\objects\benchmark_bg.o: ..\..\8M8\lvgl/lv_draw/../lv_misc/lv_txt.h

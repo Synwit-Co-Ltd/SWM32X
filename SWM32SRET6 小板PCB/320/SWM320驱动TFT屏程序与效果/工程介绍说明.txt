@@ -1,0 +1,7 @@
+此方案采用swm320和低成本的spiflash+sdram实现显示动图效果
+1.显示用主程序 ：显示用的littleVGL主程序 littleVGL的具体介绍可参littleVGL的官网
+https://docs.littlevgl.com/en/html/index.html
+2.从SD卡搬运到SPIFASH用工程 ：负责将sd卡内的文件搬运到SPIFLASH中 程序中都已挂载好了SD卡和SPIFLASH的fatfs文件系统
+3.现有板子的PCB和原理图 目前用的低成本板子的PCB和原理图 电源电路目前还存在问题 实际输出不了5V 会导致屏幕时不时有黑点 可以基于此板修改
+4.image2lcd ： jpg/bmp图片转bin文件用
+5.PNG转BIN上位机 ：PNG图片转bin文件用

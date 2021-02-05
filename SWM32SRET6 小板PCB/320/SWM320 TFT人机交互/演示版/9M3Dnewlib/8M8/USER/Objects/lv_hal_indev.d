@@ -1,0 +1,15 @@
+.\objects\lv_hal_indev.o: ..\lvgl\lv_hal\lv_hal_indev.c
+.\objects\lv_hal_indev.o: ..\lvgl\lv_hal\../lv_hal/lv_hal_indev.h
+.\objects\lv_hal_indev.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+.\objects\lv_hal_indev.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\lv_hal_indev.o: ..\lvgl\lv_hal\../lv_hal/lv_hal.h
+.\objects\lv_hal_indev.o: ..\lvgl\lv_hal\../lv_hal/lv_hal_disp.h
+.\objects\lv_hal_indev.o: ..\lvgl\lv_hal\../lv_hal/lv_hal.h
+.\objects\lv_hal_indev.o: ..\lvgl\lv_hal\../lv_hal/../lv_misc/lv_color.h
+.\objects\lv_hal_indev.o: ..\lvgl\lv_hal\../lv_hal/../lv_misc/../../lv_conf.h
+.\objects\lv_hal_indev.o: ..\lvgl\lv_hal\../lv_hal/lv_hal_indev.h
+.\objects\lv_hal_indev.o: ..\lvgl\lv_hal\../lv_hal/lv_hal_tick.h
+.\objects\lv_hal_indev.o: ..\lvgl\lv_hal\../lv_hal/../lv_misc/lv_area.h
+.\objects\lv_hal_indev.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\objects\lv_hal_indev.o: ..\lvgl\lv_hal\../lv_misc/lv_mem.h
+.\objects\lv_hal_indev.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
